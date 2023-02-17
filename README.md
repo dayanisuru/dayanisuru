@@ -1,33 +1,23 @@
-- 👋 Hi, I’m @dayanisuru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-dayanisuru/dayanisuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN SRI LANKAN-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; WELCOME TO RIKI profile &nbsp;
+  &nbsp; WELCOME TO 𝐈𝐒𝐔𝐖𝐀 profile &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+MR++RIKI;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+MR++𝐈𝐒𝐔𝐖𝐀;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from SRI LANKAN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dayanisuru&label=Profile%20views&color=eb4d3d&style=flat-square" alt="SAKIB-404CYBER" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dayanisuru&label=Profile%20views&color=eb4d3d&style=flat-square" alt="dayanisuru" /> </p>
 </i></b></h3>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
@@ -36,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😏 𝐍𝐀𝐌𝐄:- MR.RIKI
+- 😏 𝐍𝐀𝐌𝐄:- MR.𝐈𝐒𝐔𝐖𝐀
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -60,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [MR.RIKI](https://www.facebook.com/ITZ.ARIYAN.SAIFUL.OKY)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [MR.𝐈𝐒𝐔𝐖𝐀](https://www.facebook.com/ITZ.ARIYAN.SAIFUL.OKY)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -134,13 +124,13 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/dayanisuru/2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanisuru&repo=2009&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/RIKI-404C-YBER/SAKIB-2k9"><img title="SAKIB-2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=SAKIB-2k9&theme=vision-friendly-dark">
+<a href="https://github.com/𝐈𝐒𝐔𝐖𝐀-404C-YBER/SAKIB-2k9"><img title="SAKIB-2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=SAKIB-2k9&theme=vision-friendly-dark">
 
 </a>
 <a href="https://github.com/dayanisuru/NUMBER-PK"><img title="NUMBER-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=SAKIB-404CYBER&repo=NUMBER-PK&theme=vision-friendly-dark">
 
 </a>
-<a href="https://github.com/dayanisuru/Mahadi-Afg"><img title="SAKIB-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=RIKI-404CYBER&repo=Mahadi-Afg&theme=vision-friendly-dark">
+<a href="https://github.com/dayanisuru/Mahadi-Afg"><img title="SAKIB-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=𝐈𝐒𝐔𝐖𝐀-404CYBER&repo=Mahadi-Afg&theme=vision-friendly-dark">
 
 </a>
 <a href="https://github.com/dayanisuru/World-FD"><img title="World-FD" src="https://github-readme-stats.vercel.app/api/pin/?username=dayanisuru&repo=World-FD&theme=vision-friendly-dark">
